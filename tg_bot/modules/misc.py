@@ -70,7 +70,7 @@ RUN_STRINGS = (
     "Keep make drama".
     "Hell you kanger",
     "Hehe boiii",
-    "Run away boii".
+    "Run away boii",
 )
 
 SLAP_TEMPLATES = (
