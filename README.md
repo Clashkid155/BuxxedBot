@@ -1,4 +1,4 @@
-# ViviaChan Bot
+# YumemiRiamu Bot
 ## Introduction
 Heya, there! This repository is source of ViviaChan Bot. ViviaChna Bot is a mosular group manager python based Telegram bot. It will help you to exceute useful command on your group. Such as saving chat as note, baning user, give warns to user, and much more!
 ViviaChan Bot is based on [tg_bot](https://github.com/PaulSonOfLars/tgbot) by our kind guy [Paul Larsen](https://github.com/PaulSonOfLars).
