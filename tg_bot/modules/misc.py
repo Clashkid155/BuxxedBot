@@ -67,7 +67,7 @@ RUN_STRINGS = (
     "Han shot first. So will I.",
     "What are you running after, a white rabbit?",
     "As The Doctor would say... RUN!",
-    "Keep make drama".
+    "Keep make drama",
     "Hell you kanger",
     "Hehe boiii",
     "Run away boii",
