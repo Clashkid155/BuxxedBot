@@ -21,12 +21,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}! 
 
-I am is a modular python based Telegram group manager bot!
-My creator maded me to help you manage your group!
+How are you doing today?
 
-Type /help to see how to use me!
-
-If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
+Type /help to see how much i can do!
 """
 
 HELP_STRINGS = """

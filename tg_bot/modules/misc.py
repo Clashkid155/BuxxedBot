@@ -67,6 +67,10 @@ RUN_STRINGS = (
     "Han shot first. So will I.",
     "What are you running after, a white rabbit?",
     "As The Doctor would say... RUN!",
+    "Keep make drama".
+    "Hell you kanger",
+    "Hehe boiii",
+    "Run away boii".
 )
 
 SLAP_TEMPLATES = (
@@ -80,7 +84,9 @@ SLAP_TEMPLATES = (
     "{user1} pins {user2} down and repeatedly {hits} them with a {item}.",
     "{user1} grabs up a {item} and {hits} {user2} with it.",
     "{user1} ties {user2} to a chair and {throws} a {item} at them.",
-    "{user1} gave a friendly push to help {user2} learn to swim in lava."
+    "{user1} gave a friendly push to help {user2} learn to swim in lava.",
+    "{user1} throw his Poco trough to {user2} head.",
+    "{user1} slap {user2} with Alek Dev's photos."
 )
 
 ITEMS = (
@@ -113,6 +119,8 @@ ITEMS = (
     "piece of rotten meat",
     "bear",
     "ton of bricks",
+    "Alek's Dev Poco",
+    "Nunucodex's Lavender"
 )
 
 THROW = (
